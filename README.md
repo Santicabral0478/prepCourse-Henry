@@ -1,2 +1,2 @@
 # prepCourse-Henry
-Este es un repositiorio de prueba del prepcourse de Henry
+esto es una prueba ed como podemos clonar un repositorio de github y clonarlo en nuestra esfera locar re loca
